@@ -1,4 +1,4 @@
-# Motion-Blur-Removal
+# Diffusion-For-Motion-Blur-Removal
 Use of diffusion model for motion blur removal. Model Architecture </br>
 AutoencoderKL (VAE) </br>
 UNet2DConditionModel </br>
