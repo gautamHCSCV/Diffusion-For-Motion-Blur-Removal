@@ -1,0 +1,5 @@
+python-opencv
+matplotlib
+python-doctr[torch]
+pycairo
+python-doctr[torch]@git+https://github.com/mindee/doctr.git

@@ -1,0 +1,182 @@
+[
+    {
+        "word": "SAP",
+        "bounding_box": [
+            590,
+            4,
+            616,
+            18
+        ]
+    },
+    {
+        "word": "CODE:",
+        "bounding_box": [
+            612,
+            1,
+            655,
+            19
+        ]
+    },
+    {
+        "word": "IMFCPOS",
+        "bounding_box": [
+            650,
+            1,
+            698,
+            19
+        ]
+    },
+    {
+        "word": "Amulspray",
+        "bounding_box": [
+            490,
+            156,
+            727,
+            204
+        ]
+    },
+    {
+        "word": "SAP",
+        "bounding_box": [
+            856,
+            167,
+            885,
+            186
+        ]
+    },
+    {
+        "word": "CODE",
+        "bounding_box": [
+            881,
+            166,
+            916,
+            185
+        ]
+    },
+    {
+        "word": "IMFCPO3",
+        "bounding_box": [
+            918,
+            166,
+            966,
+            185
+        ]
+    },
+    {
+        "word": "INFANT",
+        "bounding_box": [
+            535,
+            208,
+            597,
+            225
+        ]
+    },
+    {
+        "word": "MILK",
+        "bounding_box": [
+            596,
+            206,
+            640,
+            224
+        ]
+    },
+    {
+        "word": "FOOD",
+        "bounding_box": [
+            638,
+            205,
+            685,
+            224
+        ]
+    },
+    {
+        "word": "INFANT",
+        "bounding_box": [
+            510,
+            226,
+            570,
+            244
+        ]
+    },
+    {
+        "word": "MILK",
+        "bounding_box": [
+            570,
+            225,
+            612,
+            243
+        ]
+    },
+    {
+        "word": "SUBSTITUTE",
+        "bounding_box": [
+            611,
+            224,
+            710,
+            241
+        ]
+    },
+    {
+        "word": "I",
+        "bounding_box": [
+            931,
+            263,
+            952,
+            363
+        ]
+    },
+    {
+        "word": "24",
+        "bounding_box": [
+            512,
+            421,
+            538,
+            443
+        ]
+    },
+    {
+        "word": "Pieces",
+        "bounding_box": [
+            537,
+            419,
+            597,
+            443
+        ]
+    },
+    {
+        "word": "X",
+        "bounding_box": [
+            597,
+            420,
+            613,
+            439
+        ]
+    },
+    {
+        "word": "500",
+        "bounding_box": [
+            615,
+            419,
+            647,
+            439
+        ]
+    },
+    {
+        "word": "9",
+        "bounding_box": [
+            647,
+            420,
+            663,
+            440
+        ]
+    },
+    {
+        "word": "Pouch",
+        "bounding_box": [
+            662,
+            415,
+            721,
+            438
+        ]
+    }
+]
